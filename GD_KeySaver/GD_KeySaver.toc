@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: |cff00ff00GDKS乌龟服按键配置保存插件|r
+## Notes: GDKS乌龟服按键配置保存插件
+## Author: Daggergd
+## Version: 1.0
+## SavedVariablesPerCharacter: 
+## SavedVariables: GDKS_ConfigDB, GDKS_BindingsDB, GDKS_ActionBarDB, GDKS_MacrosDB
+## Dependencies: !Libs
+
+GD_Lib.lua
+GD_KeySaver.lua
